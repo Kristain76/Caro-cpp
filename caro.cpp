@@ -4,8 +4,6 @@
 #include <stdlib.h>
 #include <ctype.h>
 
-//Test git
-#include <iostream>
 // ===================== Hằng số =====================
 #define BOARD_SIZE 12 // Kích thước ma trận bàn cờ
 #define LEFT 3        // Tọa độ trái màn hình bàn cờ
