@@ -1,0 +1,2 @@
+1: nhan Enter
+2: xong CheckBoard
